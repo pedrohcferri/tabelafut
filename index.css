@@ -23,11 +23,11 @@
     }
 }
 table{
-
+    
     color:  #c2c2c9;
     background-color: #1d1d20f6;
     width: 100%;
-    padding: 10px 40px;
+    padding: 5px 40px;
     align-items: centers;
 }
 
@@ -39,10 +39,12 @@ th, td{
     
 }
  .parametro_um{
-    
- text-align: justify;   
- width: 70% ;
-    
+    /* display: flex;
+    gap: 9px; */
+    text-align: justify;   
+    /* padding: 0px 100px ;
+     */
+    width: 70%;
 }
 
 
