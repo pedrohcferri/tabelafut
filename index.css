@@ -1,3 +1,52 @@
-.top{
-    background-color: blue;
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+   
 }
+
+.top{
+    background-color:  #55575b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+}
+.titulo{
+    background-color: #55575b;
+    color: #fff;
+}
+.data{
+    color: #fff;
+    .pagina{
+        background-color: #1d1d20f6;
+    }
+}
+table{
+
+    color:  #c2c2c9;
+    background-color: #1d1d20f6;
+    width: 100%;
+    padding: 10px 40px;
+    align-items: centers;
+}
+
+th, td{
+    
+    align-items: center;
+    text-align: center;
+    padding: 5px 10px;
+    
+}
+ .parametro_um{
+    
+ text-align: justify;   
+ width: 70% ;
+    
+}
+
+
+.logo{
+    max-width: 20px; max-height: 20px;
+}
+
